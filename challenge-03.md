@@ -2,7 +2,9 @@
 
 - Install kubernetes cluster on your local machine 
 - The cluster should contain at least one master and one node.
-- Deploy the application from [challenge-01]: /challenge-01.md
+- Deploy the application from [challenge-01]
+
+[challenge-01]: /challenge-01.md
 
 
 ## Demo Code:
